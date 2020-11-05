@@ -1,0 +1,3 @@
+"scripts": {
+    "react-dev": "webpack -d --watch"
+  }
